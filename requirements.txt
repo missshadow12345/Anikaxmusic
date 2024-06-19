@@ -56,3 +56,12 @@ openai==0.28.0
 mpv
 moviepy
 lyricsgenius
+Pyrogram==2.0.30
+TgCrypto
+motor
+aiofiles
+dnspython
+psutil
+Flask== 2.2.2
+gunicorn==20.1.0
+aiohttp==3.8.1
